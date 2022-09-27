@@ -37,3 +37,6 @@ console.log(student1, student2, student3);
 student3.firstName = "Salman";
 
 console.log(student1, student2, student3);
+
+console.log("push github");
+console.log("This is the repo link -> https://github.com/akshaykhurana02/fs-aug22-board-infinity.git");
