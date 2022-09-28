@@ -39,3 +39,5 @@ console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 10)); // Modify this line to test
 console.log(testArr[4]); // Modify this line to test
 console.log("After: " + JSON.stringify(testArr));
+
+console.log("git clone");
