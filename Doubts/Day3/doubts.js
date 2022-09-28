@@ -1,5 +1,5 @@
 /*
-
+Doubts.js-Day-3
     Date - 28 Sept 2022
 
     Spread Operator v/s Rest Operator
@@ -22,7 +22,6 @@ function sum(firstNumber, secondNumber, ...numbers) {
 }
 
 sum(2, 3, 4, 5, 6, 7, 8);
-
 
 // Spread Operator
 
