@@ -1,7 +1,7 @@
 var number = 10 + "1"; // Type Coercion -> It is converting 10 to "10"
 console.log(number);
 
-var diff = 10 - "1A"; // Type Coercion -> "1" to 1
+var diff = 10 - "1"; // Type Coercion -> "1" to 1
 console.log(diff);
 
 var a = "10" - "1";
